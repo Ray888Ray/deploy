@@ -9,7 +9,7 @@ SECRET_KEY = "django-insecure-eer!p9ze*m_rzdgju%_-ctf8h(c#*5tp!3u)v=&0eu_nqyu6qj
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', "*"]
+ALLOWED_HOSTS = ['127.0.0.1', "https://commerce-py-bot-622627bebc5c.herokuapp.com/"]
 
 
 INSTALLED_APPS = [
